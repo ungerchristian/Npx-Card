@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "daniellindemann",
+  "version": "1.0.0-beta.0",
+  "description": "A personal card for Daniel Lindemann (@daniellindemann)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "http://github.com/daniellindemann/daniellindemann.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Daniel Lindemann <hello@dlindemann.io> (https://dlindemann.io)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
