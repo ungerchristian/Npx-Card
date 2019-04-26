@@ -17,7 +17,7 @@ const data = {
   'name': chalk.white('Daniel Lindemann /'),
   'handle': chalk.cyan('daniellindemann'),
   'about': chalk.yellowBright('I\'m an enthusiastic node and .net developer interested in frontend and backend.\nAlso with a strange love to optimize, automate and containerize things :).'),
-  'work': chalk.white('Senior Cloud Developer at itacs GmbH'),
+  'work': chalk.white('Cloud Solution Architect @ itacs GmbH'),
   'twitter': chalk.cyan('https://twitter.com/daniellindemann'),
   'github': chalk.cyan('https://github.com/daniellindemann'),
   'linkedin': chalk.cyan('https://linkedin.com/in/daniel-lindemann'),
