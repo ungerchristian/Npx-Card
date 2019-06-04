@@ -1,20 +1,20 @@
 {
-  "name": "daniellindemann",
+  "name": "dominiklindemann",
   "version": "1.0.0-beta.1",
-  "description": "A personal card for Daniel Lindemann (@daniellindemann)",
+  "description": "Dominik Lindemann personal card (@dominiklindemann)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/daniellindemann/daniellindemann.git"
+    "url": "https://github.com/DominikLindemann/dominiklindemann.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Daniel Lindemann <hello@dlindemann.io> (https://dlindemann.io)",
+  "author": "Dominik Lindemann <dominik@d-lindemann.de> (http://d-lindemann.de)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
