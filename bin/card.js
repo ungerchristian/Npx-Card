@@ -21,6 +21,7 @@ const data = {
   'linkedin': chalk.cyan('https://linkedin.com/in/dominik-lindemann'),
   'xing': chalk.cyan('https://www.xing.com/profile/Dominik_Lindemann'),
   'web': chalk.cyan('http://d-lindemann.de'),
+  'webMuc': chalk.cyan('http://munichConsultants.tech'),
   'npx': chalk.white('npx dominiklindemann'),
   'labelWork': chalk.white.bold('      Work:'),
   'labelTwitter': chalk.white.bold('   Twitter:'),
@@ -40,10 +41,11 @@ const githubing = `${data.labelGitHub}  ${data.github}`;
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`;
 const xinging = `${data.labelXing}  ${data.xing}`;
 const webing = `${data.labelWeb}  ${data.web}`;
+const webingMuc = `${data.labelWeb}  ${data.webMuc}`;
 const carding = `${data.labelCard}  ${data.npx}`;
 
 // Put all our output together into a single variable so we can use boxen effectively
-const output = heading + newline + newline + working + newline + newline + twittering + newline + githubing + newline + linkedining + newline + xinging + newline + webing + newline + newline + carding;
+const output = heading + newline + newline + working + newline + newline + twittering + newline + githubing + newline + linkedining + newline + xinging + newline + webing + newline + webingMuc + newline + newline + carding;
 
 console.log(chalk.white(boxen(output, options)));
 
