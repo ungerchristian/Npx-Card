@@ -13,7 +13,7 @@ const options = {
 };
 // Text + chalk definitions
 const data = {
-  'name': chalk.white('Dominik Lindemann /'),
+  'name': chalk.bold.white('Dominik Lindemann /'),
   'handle': chalk.cyan('dominiklindemann'),
   'work': chalk.blueBright('Founder & CTO @ MunichConsultants'),
   'twitter': chalk.cyan('https://twitter.com/DomLindemann'),
