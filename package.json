@@ -1,20 +1,20 @@
 {
-  "name": "alexfrankenberger",
+  "name": "christianunger",
   "version": "1.0.0",
-  "description": "Alex Frankenberger personal card (@alexfrankenberger)",
+  "description": "Christian Unger personal card (@christianunger)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexfrankenberger/alexfrankenberger.git"
+    "url": "https://github.com/ungerchristian/NPX-Card.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Alex Frankenberger <alex@munichConsultants.tech> (http://munichConsultants.tech)",
+  "author": "Chritsian Unger <christian@munichConsultants.tech> (http://munichConsultants.tech)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
