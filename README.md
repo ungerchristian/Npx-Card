@@ -1,4 +1,4 @@
-This is Christian Unger. Thx for using my npx card.
+This is Christian Unger. Thx for using my npx personal card.
 
 # Usage
 Via npx:
