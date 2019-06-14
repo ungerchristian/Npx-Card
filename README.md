@@ -1,9 +1,9 @@
-This is Christian!
+This is Christian Unger. Thx for using my npx card.
 
 # Usage
 Via npx:
 ```
-npx chritsianunger
+npx christianunger
 ```
 
 Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
