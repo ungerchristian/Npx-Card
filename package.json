@@ -1,6 +1,6 @@
 {
   "name": "christianunger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Christian Unger personal card (@christianunger)",
   "main": "index.js",
   "bin": {
